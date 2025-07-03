@@ -1,0 +1,21 @@
+# ninja log v5
+1	10	0	/Users/rahulm/Downloads/weatherReact/WeatherAssessment/android/app/.cxx/Debug/445st2j7/x86_64/CMakeFiles/cmake.verify_globs	a115adb6c1992c0e
+1	1619	1751521224826910959	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	12781d3fcfb7a03
+0	1776	1751521224991571663	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	55d8acc8bd2df4eb
+6	1813	1751521225019453282	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o	86438a194b8a9be0
+3	1989	1751521225188089997	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o	8cf469b6ec781177
+0	2049	1751521225264105102	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	cbe770ff4776281e
+1	2215	1751521225418089988	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	50d7cb87f92bde5d
+1	2263	1751521225472649756	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	910607a5938931ae
+4	2266	1751521225478699018	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o	8c70607a3d1ef389
+1	2381	1751521225593413302	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	342cdce1f49c9546
+0	2392	1751521225605242884	CMakeFiles/appmodules.dir/Users/rahulm/Downloads/weatherReact/WeatherAssessment/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	eba4d8dd06f1e398
+5	2449	1751521225662683313	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o	7f1f79f43c91f197
+0	2452	1751521225666396340	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	c6116b348327a558
+0	2480	1751521225693573084	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9ddad2819ff65046
+1813	2691	1751521225908861333	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o	a3bb497a12c4c88d
+1622	2845	1751521226061397056	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o	d3e033ff7b2e91dd
+1777	2985	1751521226201786174	RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o	d11aca77f8780dd1
+2985	3037	1751521226251465610	/Users/rahulm/Downloads/weatherReact/WeatherAssessment/android/app/build/intermediates/cxx/Debug/445st2j7/obj/x86_64/libappmodules.so	84ad017d8c92891c
+0	17	0	/Users/rahulm/Downloads/weatherReact/WeatherAssessment/android/app/.cxx/Debug/445st2j7/x86_64/CMakeFiles/cmake.verify_globs	a115adb6c1992c0e
+0	9	0	/Users/rahulm/Downloads/weatherReact/WeatherAssessment/android/app/.cxx/Debug/445st2j7/x86_64/CMakeFiles/cmake.verify_globs	a115adb6c1992c0e
