@@ -188,3 +188,13 @@ WeatherAssessment/
 
 ---
 **For any issues, check the logs, ensure all dependencies are installed, and that your Jest config matches the above.**
+
+## Environment Variables
+
+Create a `.env` file in the root of your project with the following content:
+
+```
+WEATHER_API_KEY=your_weather_api_key_here
+```
+
+Replace `your_weather_api_key_here` with your actual API key.
